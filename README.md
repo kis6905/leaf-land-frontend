@@ -1,2 +1,2 @@
-# leaf-land-front
-Leaf Land(게임플랫폼?)의 front repository
+# Leaf Land
+* 게임 플랫폼
